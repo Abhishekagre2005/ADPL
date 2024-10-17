@@ -1,0 +1,35 @@
+ <!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Forms</h2>
+
+ <form action="/action_page.php">
+ <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname" value=" "><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname" value=" "><br><br>
+  <label for="fname">PRN NO
+ :</label>
+  <input type="text" id="fname" name="fname" value=" "><br><br>
+  <label for="fname"> STUDING INFO:</label> <br> <br>
+  <title>three button example</title>
+  </head>
+  <body>
+  <button
+  onclick="but tonone function()"> FIRST YR
+  </button><br><br>
+  <button>
+     SECOND YR
+  </button><br><br>
+  <button>
+   THIRD YR
+  </button><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+</body>
+</html>
+
